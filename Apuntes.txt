@@ -1,0 +1,9 @@
+
+Componentes principales de react
+
+Stateful (clases) => Componentes con estados
+Stateless (funciones) => Componentes sin estados
+Presentational (funciones) => Componentes Visuales
+
+----------------------------------------------------------------------------------------------------------
+
